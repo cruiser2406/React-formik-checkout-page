@@ -1,2 +1,2 @@
 # React-formik-checkout-page
-shopping application chechkout form using formik error validation.
+shopping application checkout form using formik error validation.
