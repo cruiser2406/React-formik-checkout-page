@@ -1,0 +1,98 @@
+#contain{
+    width:60%;
+    margin-left:20%;
+    margin-right:20%;
+    margin-top: 1%;
+   
+    border-style: solid;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+}
+
+#fname{
+    border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  
+}
+#lname{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    
+}
+#city{
+    border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  
+}
+#state{
+    border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  
+}
+#w3review{
+    border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  
+}
+#ad2{
+    border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+ 
+}
+#zip{
+    border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  
+}
+#country{
+    border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  
+}
+#p{
+  text-align: center;
+  padding-left:40%;
+}
+#p2{
+  padding-left: 2%;
+}
+#p4{
+  text-decoration: underline;
+  text-underline-offset:0.3em;
+  text-decoration-thickness: 1.8px;
+}
+#p5{
+  text-decoration: underline;
+  text-underline-offset:-0.07em;
+
+}
+#p6{
+color:red;
+font-size: 20px;
+
+}
+#p7{
+  background-color: dodgerblue;
+  position: relative;
+}
+#p8{
+  padding-left: 25%;
+}
